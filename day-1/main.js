@@ -73,9 +73,8 @@ for (let c of countries) {
 console.log(popularAttractions)
 */
 
-/// Exercise 2 ////
+            //// npm ///
 
-const moment = require('moment')
+/// Exercise 1 ////
 
-let formattedTimeNow = moment().format("MMMM Do, YYYY")
-console.log(formattedTimeNow) //January 3rd, 2017
+

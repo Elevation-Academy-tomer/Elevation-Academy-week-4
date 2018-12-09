@@ -1,15 +1,15 @@
 {
-  "name": "day-1",
+  "name": "npm-exercises",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "ex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.22.2",
-    "request": "^2.88.0"
+    "faker": "^4.1.0",
+    "validator": "^10.9.0"
   }
 }
